@@ -1,0 +1,636 @@
+    1  exit
+    2  exit
+    3  exit
+    4  e[it
+    5  exit
+    6  pwd
+    7  ls
+    8  cd Desktop
+    9  pwd
+   10  ls
+   11  pwd
+   12  cd ..
+   13  pwd
+   14  ls
+   15  exit
+   16  pwd
+   17  ls
+   18  cd Desktop
+   19  pwd
+   20  ls
+   21  cd react-tutorial
+   22  pwd
+   23  cd ~
+   24  pwd
+   25  clear
+   26  git --version
+   27  clear
+   28  git --version
+   29  git config --global user.name "Dasha"
+   30  git config --global user.email "nikulina.dariia@gmail.com"clear
+   31  clear
+   32  git config --global user.name "Dasha"
+   33  git config --global user.email "nikulina.dariia@gmail.com"
+   34  git config --get user.name
+   35  git config --get user.email
+   36  exit
+   37  ssh-keygen -t rsa -b 4096 -C "nikulina.dariia@gmail.com"
+   38  exit
+   39  pwd
+   40  ls
+   41  cd Desktop
+   42  ls
+   43  cd Project.ex
+   44  pwd
+   45  clear
+   46  pwd
+   47  git clone git@github.com:dashakim2209/exemple.git
+   48  ls
+   49  cd example
+   50  pwd
+   51  cd exemple
+   52  pwd
+   53  ls
+   54  clear
+   55  pwd
+   56  pwd
+   57  ls
+   58  cd Desktop/Project.ex
+   59  pwd
+   60  ls
+   61  code .
+   62  eval "$(ssh-agent -s)"
+   63  ssh-add --apple-use-keychain ~/.ssh/id_rs
+   64  ssh-add --apple-use-keychain ~/.ssh/id_rsa
+   65  cat ~/.ssh/id_rsa.pub
+   66  exit
+   67  git status
+   68  git status
+   69  git status
+   70  git add --all
+   71  git status
+   72  git status
+   73  git add --all
+   74  git status
+   75  git restore --staged secret.md
+   76  git status
+   77  git status
+   78  git add --all
+   79  git status
+   80  git commit -m "add initial files"
+   81  git status
+   82  git status
+   83  git add --all
+   84  git status
+   85  git commit -m "update todo list"
+   86  git status
+   87  git log
+   88  git status
+   89  git push
+   90  git status
+   91  git status
+   92  git add --all
+   93  git status
+   94  git commit -m "add index file"
+   95  git push
+   96  exit
+   97  git config --get user.name
+   98  git config --get user.email
+   99  clear
+  100  ssh-keygen -t rsa -b 4096 -C "nikulina.dariia@gmail.com"
+  101  ssh-keygen -t rsa -b 4096 -C "nikulina.dariia@gmail.com"
+  102  clear
+  103  eval "$(ssh-agent -s)"\n
+  104  ssh-add --apple-use-keychain ~/.ssh/id_rsa 
+  105  cat ~/.ssh/id_rsa.pub\n
+  106  git clone git@github.com:dashakim2209/goit-markup-hw-01.git
+  107  git status
+  108  git add --al
+  109  git add --all
+  110  git status
+  111  git status
+  112  git add --all
+  113  git status
+  114  git commit -m "add index.html file"
+  115  git push
+  116  git status
+  117  git add --all
+  118  git status
+  119  git commit -m "update index.html file"
+  120  git push
+  121  git clone git@github.com:dashakim2209/goit-markup-hw-01.git
+  122  git clone git@github.com:dashakim2209/goit-markup-hw-01.git
+  123  git status
+  124  git add --all
+  125  git status
+  126  git commit -m "add index.html file"
+  127  git push
+  128  git status
+  129  git add --all
+  130  git status
+  131  git add --all
+  132  git staus
+  133  git status
+  134  git commit -m "update file"
+  135  git push
+  136  git status
+  137  git add --all
+  138  git status
+  139  git commit -m "add changes to html file"
+  140  git push
+  141  clean
+  142  clear
+  143  git status
+  144  git status
+  145  git clone https://github.com/dashakim2209/goit-markup-hw-02.git
+  146  git status
+  147  git status
+  148  git add --all
+  149  git status
+  150  git commit -m "change repository"
+  151  git push
+  152  git status
+  153  git add --all
+  154  git status
+  155  git status
+  156  git commit -m "add changes"
+  157  git status
+  158  git add --all
+  159  git status
+  160  git commit -m "add changes in html"
+  161  git push
+  162  git status
+  163  git add --all
+  164  git status
+  165  git commit -m "update index file"
+  166  git push
+  167  git add --all
+  168  git status
+  169  git commit -m "add changes to file"
+  170  git push
+  171  git add --all
+  172  git status
+  173  git commit -m "update file"
+  174  git push
+  175  git status
+  176  git add --all
+  177  git commit -m "add style.css file"
+  178  git push
+  179  git add --all
+  180  git commit -m "update css file"
+  181  git push
+  182  git add --all
+  183  git commit -m "update again css file"
+  184  git push
+  185  git status
+  186  git add --all
+  187  git commit -m "add changes again in css file"
+  188  git push
+  189  git add --all
+  190  git status
+  191  git commit -m "add changes to css file"
+  192  git push
+  193  git clone git@github.com:dashakim2209/goit-markup-hw-03.git
+  194  git add --all
+  195  git commit -m "add changes"
+  196  git push
+  197  git clone git@github.com:dashakim2209/goit-markup-hw-03.git
+  198  git add --all
+  199  git status
+  200  git commit -m "edit footer text"
+  201  git push
+  202  git add --all
+  203  git status
+  204  git commit -m "add changes to files"
+  205  git push
+  206  git add --all
+  207  git commit -m "edit file"
+  208  git push
+  209  git status
+  210  git add --all
+  211  git status
+  212  git commit -m "add changes to files"
+  213  git push
+  214  git add --all
+  215  git status
+  216  git commit -m "change css and html files"
+  217  git push
+  218  git status
+  219  git add --all
+  220  git commit -m "edit files"
+  221  git push
+  222  git status
+  223  git add --all
+  224  git status
+  225  git clone git@github.com:dashakim2209/goit-markup-hw-04.git
+  226  git status
+  227  git status
+  228  git add --all
+  229  git status
+  230  git commit -m "save changes"
+  231  git push
+  232  git status
+  233  git status
+  234  git add --all
+  235  git commit -m "add changes"
+  236  git push
+  237  git status
+  238  git add --all
+  239  git status
+  240  git commit -m "save changes"
+  241  git push
+  242  git status
+  243  git add --all
+  244  git commit -m "edd changes"
+  245  git push
+  246  git add --all
+  247  git status
+  248  git commit -m "save css ans html files"
+  249  git push
+  250  git add --all
+  251  git status
+  252  git commit -m "edit files"
+  253  git push
+  254  git add --all
+  255  git status
+  256  git commit -m "edit files"
+  257  git push
+  258  git status
+  259  git commit -m "save changes"
+  260  git push
+  261  git status
+  262  git add --all
+  263  git status
+  264  git add --all
+  265  git status
+  266  git commit -m "save changes in file"
+  267  git push
+  268  git clone git@github.com:dashakim2209/goit-markup-hw-05.git
+  269  git status
+  270  git status
+  271  git status
+  272  git add --all
+  273  git commit -m "add changes"
+  274  git push
+  275  git status
+  276  git add --all
+  277  git commit -m "add changes"
+  278  git push
+  279  git add --all
+  280  git status
+  281  git add --all
+  282  git status
+  283  git commit -m "add changes"
+  284  git push
+  285  git status
+  286  git add --all
+  287  git status
+  288  git commit -m "save changes"
+  289  git push
+  290  git status
+  291  git add --all
+  292  git commit -m "save changes"
+  293  git push
+  294  git add --all
+  295  git status
+  296  git commit -m "save changes"
+  297  git status
+  298  git add --all
+  299  git status
+  300  git commit -m "save changes"
+  301  git push
+  302  git status
+  303  git clone git@github.com:dashakim2209/goit-markup-hw-06.git
+  304  git status
+  305  git add --all
+  306  git commit -m "save changes"
+  307  git pish
+  308  git push
+  309  git add --all
+  310  git commit -m "save changes"
+  311  git push
+  312  git add --all
+  313  git commit -m "save changes"
+  314  git push
+  315  git add --all
+  316  git commit -m "save changes"
+  317  git push
+  318  git add --all
+  319  git commit -m "add changes"
+  320  git push
+  321  git add --all
+  322  git commit -m "save chenges"
+  323  git push
+  324  git add --all
+  325  git commit -m "save changes"
+  326  git push
+  327  git add --all
+  328  git commit -m "save changes"
+  329  git push
+  330  git add --all
+  331  git commit -m "save changes"
+  332  git push
+  333  node -v
+  334  node -v
+  335  git add --all
+  336  git commit -m "save changes"
+  337  git push
+  338  git add --all
+  339  git commit -m "save changes"
+  340  git push
+  341  git clone git@github.com:bogatyrms/project-majesticteam05.git
+  342  git switch -c catalog section
+  343  git switch -c catalog
+  344  git add .
+  345  git commit -m "add catalog html"
+  346  git push
+  347    git push --set-upstream origin catalog
+  348  git add .
+  349  git status
+  350  git commit -m "save changes in catalog html"
+  351  git push
+  352  git switch main
+  353  git pull
+  354  git add .
+  355  git status
+  356  git commit -m "add changes to html"
+  357  git push
+  358  git pull
+  359  git switch main
+  360  git pull
+  361  git add .
+  362  git commit -m "add changes to catalog"
+  363  git push
+  364  git add .
+  365  git commit -m "add changes"
+  366  git push
+  367  git add .
+  368  git commit -m "save changes to catalog"
+  369  git push
+  370  git add .
+  371  git commit -m "change catalog file"
+  372  git push
+  373  git add .
+  374  git commit -m "save changes in catalog"
+  375  git push
+  376  git switch main
+  377  git pull
+  378  git switch -c catalogv2
+  379  git add .
+  380  git commit -m "edit css and html catalog"
+  381  git push
+  382   git push --set-upstream origin catalogv2
+  383  git add .
+  384  git commit -m "save changes in css"
+  385  git push
+  386  git switch main
+  387  git pull
+  388  git switch -c catalog.v3
+  389  git add .
+  390  git commit -m "create catalog.v3"
+  391  git push
+  392   git push --set-upstream origin catalog.v3
+  393  git add .
+  394  git commit -m "add id"
+  395  git push
+  396  npm i
+  397  npm run dev
+  398  git clone git@github.com:bogatyrms/project-majesticteam5.git
+  399  git switch -c catalog.v1
+  400  git add .
+  401  git commit -m "edit catalog file"
+  402  git push
+  403    git push --set-upstream origin catalog.v1\n
+  404  git add .
+  405  git commit -m "update catalog"
+  406  git push
+  407  npm i
+  408  npm run dev
+  409  git add .
+  410  git commit -m "edit button"
+  411  git push
+  412  git switch main 
+  413  git pull
+  414  git switch -m catalog.v2
+  415  git switch -c catalog.v2
+  416  git add .
+  417  git commit -m "edit button"
+  418  git push
+  419  git push --set-upstream origin catalog.v2
+  420  npm run dev
+  421  git clone git@github.com:dashakim2209/goit-js-hw-01.git
+  422  git add --all
+  423  git status
+  424  git commit -m "create js tasks"
+  425  git push
+  426  git clone git@github.com:dashakim2209/goit-js-hw-02.git
+  427  git add --all
+  428  git commit -m "create js file"
+  429  git push
+  430  git clone git@github.com:dashakim2209/goit-js-hw-03.git
+  431  git add --all
+  432  git commit -m "create js file"
+  433  git push
+  434  git clone git@github.com:dashakim2209/goit-js-hw-04.git
+  435  git add --all
+  436  git commit -m "create js file"
+  437  git push
+  438  git clear
+  439  git clean
+  440  git clone git@github.com:dashakim2209/goit-js-hw-05.git
+  441  git add --all
+  442  git commit -m "create js tasks"
+  443  git push
+  444  git clone git@github.com:dashakim2209/goit-js-hw-06.git
+  445  git add --all
+  446  git commit -m "do tasks in js"
+  447  git push
+  448  git clone git@github.com:dashakim2209/goit-js-hw-07.git
+  449  git add -- all
+  450  git add --all
+  451  git commit -m "create js and html files"
+  452  git push
+  453  git add --all
+  454  git commit -m "edit created files"
+  455  git push
+  456  git clone git@github.com:dashakim2209/goit-js-hw-08.git
+  457  git add --all
+  458  git commit -m "create js tasks css and html"
+  459  git status
+  460  git add --all
+  461  git commit -m "create files for tasks"
+  462  git push
+  463  node --version\n
+  464  npm --version\n
+  465  npm config set init-author-name "Nikulina Dasha"
+  466  npm config set init-author-email "nikulina.dariia@gmail.com"
+  467  cd ~/projects\n
+  468  cd ~/projects\n
+  469  cd projects
+  470  cd ~/projects 
+  471  cd ~/projects\n
+  472  node -v
+  473  npm -v
+  474  cd Desktop/projects
+  475  npm create vite@latest\n
+  476  cd vite-project
+  477  code .
+  478  cd vite-project
+  479  git clone git@github.com:dashakim2209/goit-js-hw-09.git
+  480  git status
+  481  git status
+  482  git add --all
+  483  git commit -m "update package.json"
+  484  git push
+  485  git clone git@github.com:dashakim2209/goit-js-hw-09.git
+  486  git clone git@github.com:dashakim2209/goit-js-hw-10.git
+  487  git commit -m "update package.json"
+  488  git add --all
+  489  git commit -m "update package.json"
+  490  git push
+  491  npm i
+  492  npm i flatpickr --save
+  493  npm run dev
+  494  git add --all
+  495  git commit --m "create hw tasks"
+  496  git push
+  497  npm i
+  498  npm i izitoast
+  499  npm run dev
+  500  npm i
+  501  npm install izitoast --save
+  502  npm run dev
+  503  git clone git@github.com:dashakim2209/goit-js-hw-11.git
+  504  git add --all
+  505  git add --all
+  506  git commit -m "check code"
+  507  git push
+  508  npm install loaders.css\n
+  509  npm install loaders.css --save
+  510  npm run dev
+  511  npm i
+  512  npm install simplelightbox
+  513  npm install izitoast --save
+  514  npm run dev
+  515  git add --all
+  516  git commit -m "finish edits"
+  517  git push
+  518  git add --all
+  519  git commit -m "create tasks"
+  520  git push
+  521  git add --all
+  522  git commit -m "update pack.json"
+  523  git push
+  524  git clone git@github.com:dashakim2209/goit-js-hw-12.git
+  525  git add --all
+  526  git commit -m "done all tasks"
+  527  git push
+  528  git add --all
+  529  git commit -m "update json"
+  530  git push
+  531  npm i
+  532  npm install izitoast --save
+  533  npm install simplelightbox
+  534  npm install axios
+  535  npm run dev
+  536  git add --all
+  537  git commit -m "complete tasks"
+  538  git push
+  539  git add --all
+  540  git commit -m "update package.json"
+  541  git push
+  542  git status
+  543  git add --all
+  544  git commit -m "save changes"
+  545  git push
+  546  clean
+  547  clear
+  548  npm i
+  549  npm install simplelightbox
+  550  npm run dev
+  551  npm run dev
+  552  brew install --cask dbeaver-community
+  553  brew install --cask dbeaver-community
+  554  brew install --cask dbeaver-community
+  555  brew install --cask dbeaver-community
+  556  brew install --cask dbeaver-community 
+  557  brew install --cask dbeaver-community
+  558  brew install --cask dbeaver-community
+  559  man ls
+  560  ls
+  561  cls
+  562  clear
+  563  cd Desktop
+  564  ls
+  565  cd ..
+  566  cd Desktop
+  567  cd ~
+  568  clear
+  569  ls
+  570  cd Desktop
+  571  ls
+  572  cd PM-goit
+  573  pwd
+  574  cd ..
+  575  mkdir Terminal direc
+  576  touch empty.txt
+  577  ls
+  578  clear
+  579  ls
+  580  vim empty.txt
+  581  nano empty.txt
+  582  cat empty.txt
+  583  pwd
+  584  cp /Users/dashanikulina/Desktop/empty.txt /Users/dashanikulina/Downloads
+  585  rm emty.txt
+  586  rm empty.txt
+  587  rm Terminal
+  588  date
+  589  df -h
+  590  ifconfig
+  591  whoami
+  592  clear
+  593  ls
+  594  touch test.txt
+  595  chmod 777 test.txt
+  596  rm test.txt
+  597  git --version
+  598  clear
+  599  cd Git-practice 6-goit
+  600  cd Git-practice6-goit
+  601  clear
+  602  ls
+  603  cd Desktop
+  604  cd GitPractice6
+  605  history -c && rm ~/.bash_history
+  606  git config --global user.name "Dasha Nikulina"
+  607  ls
+  608  cd Desktop
+  609  cd GitPractice6
+  610  git config --global user.name "Dasha Nikulina"
+  611  git config --global user.email nikulina.dariia@gmail.com
+  612  git clone https://github.com/dashakim2209/HW_10.git
+  613  cd HW_10
+  614  touch text_ignore.txt
+  615  nano .gitignore
+  616  git status
+  617  git add .
+  618  git commit -m "Робота з .gitignore"
+  619  touch main_test.txt
+  620  git add .
+  621  git commit -m "Створення комітів"
+  622  git checkout -b develop
+  623  git branch
+  624  touch develop_test.txt\n
+  625  git add .
+  626  git commit -m "Додано файл develop_test.txt"
+  627  nano develop_test.txt
+  628  git status
+  629  git add .
+  630  git commit -m "Робота в іншій гілці"
+  631  git checkout main
+  632  git branch
+  633  git merge develop
+  634  git log
+  635  git add .
+  636  git commit -m "Пушимо всі зміни в репозиторій"
